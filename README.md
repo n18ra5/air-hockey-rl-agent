@@ -253,7 +253,6 @@ This explains the distinction between the final study's winning configuration an
 | Early attacking | 10 | Stage-dependent | 200,000 | 100 x 60-second games |
 | Attacking V5 | 5 | 3 | 200,000 | 100 x 60-second games |
 | First balanced full chaser | 5 | 3 | 300,000 | 100 x 60-second games |
-| Simplified balanced | 5 | 3 | 100,000 or more | 100 x 60-second games |
 | Final three-reward | 5 | 3 | 500,000 | 100 x 60-second games |
 
 These values changed as the project developed. They should be read as the recorded conditions for each stage, not as one single controlled experiment repeated unchanged throughout the entire project.
