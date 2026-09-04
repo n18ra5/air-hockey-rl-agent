@@ -707,7 +707,6 @@ The project contains several historical script and environment revisions because
 | `air_hockey_env.py` and numbered revisions | Custom Gymnasium environment and physics revisions |
 | `tune_offensive_ai.py` | Early attacking reward optimisation |
 | `train_offensive_vs_chaser.py` | Attacking continuation against chasers |
-| `train_balanced_ai.py` | Original balanced reward design |
 | `train_balanced_100pct_chaser.py` | Balanced training against the full-speed chaser |
 | `3rewards_full_chaser.py` | Final three-reward Optuna experiment |
 | `play_vs_100pct_chaser.py` | Manual play against the scripted chaser |
